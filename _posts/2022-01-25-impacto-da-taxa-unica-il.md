@@ -10,7 +10,7 @@ Perguntamos qual o impacto orçamental desta proposta?
 
 <!--more-->
  
-Em 2019, quando esta proposta foi feita originalmente (sem o sistema transitório de duas taxas), o site da IL dizia:
+Em 2019, [quando esta proposta foi feita originalmente](https://iniciativaliberal.pt/taxa-unica-de-irs-questoes-frequentes/) (sem o sistema transitório de duas taxas), o site da IL dizia:
 
 > De momento, a taxa do IRS efetiva anda nos 13%. Considerando a isenção para rendimentos de trabalhadores por conta de outrem abaixo de 650€, uma taxa fixa de 15% implicaria uma taxa efetiva sobre o rendimento bruto de cerca de 10%. Assumindo o mesmo perfil de rendimentos, isto teria um custo orçamental de cerca de 2 mil milhões de euros no primeiro ano, menos de 1% do PIB. O efeito na economia e o aumento de eficiência fiscal, comprovado noutros países como visto acima, aumentaria a base fiscal reduzindo este impacto a menos de 0,5% do PIB. A introdução gradual da taxa única, começando nos 20% atenuaria qualquer impacto orçamental no curto prazo.
 
@@ -18,7 +18,7 @@ Ou seja, 2 mil milhões de euros. Mas, em 2022, o programa já diz:
 
 > Esta medida transitória, que se estima produzisse um impacto orçamental na receita estimada para 2022 de cerca de 2 mil milhões de euros (excluindo o efeito de expansão económica e respetivo aumento da base fiscal), possibilitaria uma transição gradual para o objetivo de taxa única.
 
-Ora, o sistema transitório de duas taxas, fiscalmente mais punitivo, custa o mesmo que o sistema de taxa única? Parece improvável. Terão usado métodos de cálculo diferentes? Infelizmente, os métodos não são descritos pelo que não sabemos.
+Ora, o sistema transitório de duas taxas, fiscalmente mais punitivo, custa o mesmo que o sistema de taxa única? Parece improvável. Terão usado métodos de cálculo diferentes? Infelizmente, os métodos não são descritos, pelo que não sabemos.
 
 Tentaremos então estimar o impacto orçamental usando os [dados mais recentes da AT](https://info.portaldasfinancas.gov.pt/pt/dgci/divulgacao/estatisticas/Pages/default.aspx) relativos ao IRS, que são de 2019.
 Uma nota importante é que tentaremos calcular os efeitos de primeira ordem apenas, isto é, os impactos diretos. A perda de receita do IRS poderá ser parcialmente compensada por efeitos de segunda ordem (ex.: pelo aumento do rendimento disponível), mas estes valores não serão calculados aqui.
