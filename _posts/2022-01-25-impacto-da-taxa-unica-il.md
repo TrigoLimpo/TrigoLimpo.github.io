@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Qual o impacto da proposta de taxa única nas receitas do IRS?
+title: Qual o impacto orçamental da proposta de taxa única da IL?
 excerpt_separator: <!--more-->
 ---
 
