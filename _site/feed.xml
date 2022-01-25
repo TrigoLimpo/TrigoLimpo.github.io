@@ -1,4 +1,255 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="3.8.5">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt" /><updated>2019-06-08T13:28:10+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Trigo Limpo</title><subtitle></subtitle><author><name>dx</name></author><entry><title type="html">Ser pobre para salvar o ambiente? Se calhar, não.</title><link href="http://localhost:4000/ser-pobre-para-salvar-o-ambiente/" rel="alternate" type="text/html" title="Ser pobre para salvar o ambiente? Se calhar, não." /><published>2019-06-08T00:00:00+01:00</published><updated>2019-06-08T00:00:00+01:00</updated><id>http://localhost:4000/ser-pobre-para-salvar-o-ambiente</id><content type="html" xml:base="http://localhost:4000/ser-pobre-para-salvar-o-ambiente/">&lt;p&gt;No seu artigo “&lt;a href=&quot;http://visao.sapo.pt/opiniao/2019-05-30-Quer-fazer-bem-ao-ambiente--Seja-pobre&quot;&gt;Quer fazer bem ao ambiente? Seja pobre.&lt;/a&gt;”, Luís Ribeiro conclui:&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt" /><updated>2022-01-25T21:23:22+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Trigo Limpo</title><subtitle></subtitle><author><name>dx</name></author><entry><title type="html">Qual o impacto da proposta de taxa única nas receitas do IRS?</title><link href="http://localhost:4000/impacto-da-taxa-unica-il/" rel="alternate" type="text/html" title="Qual o impacto da proposta de taxa única nas receitas do IRS?" /><published>2022-01-25T00:00:00+00:00</published><updated>2022-01-25T00:00:00+00:00</updated><id>http://localhost:4000/impacto-da-taxa-unica-il</id><content type="html" xml:base="http://localhost:4000/impacto-da-taxa-unica-il/">&lt;p&gt;No &lt;a href=&quot;https://iniciativaliberal.pt/wp-content/uploads/2022/01/Iniciativa-Liberal-Programa-Eleitoral-2022.pdf&quot;&gt;programa para as legislativas de 2022&lt;/a&gt;, a IL propõe alterar o regime do IRS para uma taxa única de 15%, com isenção para rendimentos de trabalho até ao montante do mínimo de existência de vida, igual a 1.5 x 14 x IAS (indexante de apoios sociais), que corresponde a 664.80€ por mês para 2022. Para reduzir o choque inicial, propõe começar com um sistema temporário de duas taxas, 15% até aos 30,000€ e 28% acima, com a mesma isenção do sistema de taxa única. Em ambos, acrescenta-se também uma isenção mensal por filho por progenitor de 200€ ou de 400€ em famílias monoparentais, isto é, cada filho representa 400€ de isenção mensal.&lt;/p&gt;
+
+&lt;p&gt;Perguntamos qual o impacto orçamental desta proposta?&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Em 2019, quando esta proposta foi feita originalmente (sem o sistema transitório de duas taxas), o site da IL dizia:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;De momento, a taxa do IRS efetiva anda nos 13%. Considerando a isenção para rendimentos de trabalhadores por conta de outrem abaixo de 650€, uma taxa fixa de 15% implicaria uma taxa efetiva sobre o rendimento bruto de cerca de 10%. Assumindo o mesmo perfil de rendimentos, isto teria um custo orçamental de cerca de 2 mil milhões de euros no primeiro ano, menos de 1% do PIB. O efeito na economia e o aumento de eficiência fiscal, comprovado noutros países como visto acima, aumentaria a base fiscal reduzindo este impacto a menos de 0,5% do PIB. A introdução gradual da taxa única, começando nos 20% atenuaria qualquer impacto orçamental no curto prazo.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ou seja, 2 mil milhões de euros. Mas, em 2022, o programa já diz:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Esta medida transitória, que se estima produzisse um impacto orçamental na receita estimada para 2022 de cerca de 2 mil milhões de euros (excluindo o efeito de expansão económica e respetivo aumento da base fiscal), possibilitaria uma transição gradual para o objetivo de taxa única.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Ora, o sistema transitório de duas taxas, fiscalmente mais punitivo, custa o mesmo que o sistema de taxa única? Parece improvável. Terão usado métodos de cálculo diferentes? Infelizmente, os métodos não são descritos pelo que não sabemos.&lt;/p&gt;
+
+&lt;p&gt;Tentaremos então estimar o impacto orçamental usando os &lt;a href=&quot;https://info.portaldasfinancas.gov.pt/pt/dgci/divulgacao/estatisticas/Pages/default.aspx&quot;&gt;dados mais recentes da AT&lt;/a&gt; relativos ao IRS, que são de 2019.
+Uma nota importante é que tentaremos calcular os efeitos de primeira ordem apenas, isto é, os impactos diretos. A perda de receita do IRS poderá ser parcialmente compensada por efeitos de segunda ordem (ex.: pelo aumento do rendimento disponível), mas estes valores não serão calculados aqui.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;&lt;font size=&quot;3&quot;&gt;No artigo, utiliza-se o ponto para o separador decimal e a vírgula para o separador dos milhares. Apesar do melhor esforço e cuidado, é possível que os cálculos contenham erros. Estamos abertos a que sejam apontados.&lt;/font&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;sistema-atual-de-2019&quot;&gt;Sistema atual (de 2019)&lt;/h2&gt;
+
+&lt;p&gt;Em 2019, a receita do IRS foi de 12,939 milhões de euros, num rendimento bruto total de 100,562 milhões de euros, o que resulta numa taxa global efetiva de 12.9%&lt;sup&gt;&lt;a id=&quot;cite-footnote-a&quot; href=&quot;#footnote-a&quot;&gt;(a)&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;dados&quot;&gt;Dados&lt;/h2&gt;
+
+&lt;p&gt;Se a proposta não tivesse quaisquer isenções, então o cálculo da taxa única seria relativamente simples: 0.15 x 100,562 = 15,084 M€, o que significaria um impacto positivo (óbvio, já que 15.0% &amp;gt; 12.9%) de 2,145 milhões de euros na receita do IRS (mais impostos com a nova proposta). Falta-nos, claro, subtrair o valor das isenções para podermos calcular a verdadeira receita do IRS e consequentemente, o impacto da medida.&lt;/p&gt;
+
+&lt;p&gt;Olhemos para a isenção pessoal até aos 664.80€&lt;a id=&quot;cite-footnote-b&quot; href=&quot;#footnote-b&quot;&gt;&lt;sup&gt;(b)&lt;/sup&gt;&lt;/a&gt;. Na realidade, utilizarei 653.64€ em vez de 664.80€ por razões de consistência, já que é o valor do IAS de 2019, o ano mais recente com dados. Para sabermos o valor global (relativo a todos os contribuintes) desta isenção, poder-se-ia pensar em fazer simplesmente:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# contribuintes x isenção pessoal
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Porém, a realidade é ligeiramente mais complexa, porque certas pessoas auferem menos do que o valor da isenção, seja porque recebem o salário mínimo, trabalham em part-time, têm uma pensão baixa, etc. Se os dados individuais estivessem disponíveis livremente, seria uma questão simples de calcular a isenção individual de cada um:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Isenção = | Rendimento, se Rendimento &amp;lt; 653.64€
+          | 653.64€,    caso contrário
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;e somá-las todas.&lt;/p&gt;
+
+&lt;p&gt;Infelizmente, os dados da AT disponíveis ao público apresentam algumas dificuldades:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;Não se apresentam ao nível individual (até porque o IRS é calculado ao nível do agregado);&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Por causa das regras sobre quem faz parte do agregado (ex.: filhos até 25 anos que aufiram menos de 14 vezes o SMN num ano podem ser incluídos), o número de pessoas com rendimento por agregado casado não é necessariamente 2 (nem 1 por não casado).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Os dados não estão disponíveis por agregado (ex.: agregado 1 teve rendimentos de X1, …), mas englobados em escalões (ex.: houve 1,446,100 agregados com rendimento entre os 5,000 e os 10,000€).&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;A distribuição dos agregados casados/não casados pelos escalões não está disponível.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Por exemplo, uma dificuldade relativa ao primeiro ponto, é que o sistema de declaração conjunta significa que não se distingue entre um casal em que uma pessoa aufere acima do valor da isenção e a outra abaixo (ex.: 400€ e 1000€); e um outro, com o mesmo rendimento total, em que ambas auferem acima do valor da isenção (ex.: 700€ e 700€). Este sistema é vantajoso para o primeiro casal porque permite reduzir o IRS que tem de pagar, comparativamente a uma tributação separada. Na proposta da IL, o mesmo não é acontece. Os valores são calculados individualmente, o que significa que no primeiro casal, uma das pessoas não utiliza a totalidade da isenção, ao contrário do segundo casal, que utiliza as duas isenções completamente, apesar de ambos os casais terem o mesmo rendimento. (Isto significa também que mesmo que tivéssemos acesso aos dados por agregado, a não ser que também se incluíssem os dados por pessoa, seria difícil dizer com 100% de certeza qual o valor exato das isenções.)&lt;/p&gt;
+
+&lt;h1 id=&quot;sistema-de-taxa-única&quot;&gt;Sistema de taxa única&lt;/h1&gt;
+
+&lt;h2 id=&quot;minorante&quot;&gt;Minorante&lt;/h2&gt;
+
+&lt;p&gt;Dadas as dificuldades mencionadas acima, em vez de tentar calcular qual o valor exato do impacto nas receitas do IRS, tentaremos calcular um minorante. Isto é, um valor que é seguramente menor do que o valor real. Assim, podemos afirmar que o impacto real será maior do que esse valor.&lt;/p&gt;
+
+&lt;p&gt;Para isso, vamos assumir que, tanto para agregados não casados, como para agregados casados, o número de trabalhadores por agregado é de apenas um. Isto significa que, nos agregados em que realmente temos um trabalhador, estamos a calcular corretamente o valor da isenção; e nos agregados em que temos mais de um trabalhador (a maioria dos agregados casados), estamos a calcular um valor menor do que a isenção real. Assim sendo, o valor que calculamos será certamente menor do que o valor real. Por consequência, a receita calculada também será maior que a real e portanto, o impacto na receita do IRS será certamente maior do que o real.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Perda = IRS_antigo - IRS
+      = IRS_antigo - 0.15 x (Rendimento Total - Isenção Total)
+      = IRS_antigo + 0.15 x (Isenção Total - Rendimento Total)
+      ≥ IRS_antigo + 0.15 x (Isenção_1pa - Rendimento Total)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Aqui, Isenção_1pa é o valor total das isenções, assumindo uma por agregado, quando na realidade, muito agregados (ex.: casados) terão direito a duas.&lt;/p&gt;
+
+&lt;p&gt;Sendo assim, 1 agregado = 1 trabalhador = 1 isenção. Para calcularmos o valor total das isenções temos de calcular o valor das isenções dos que têm rendimentos anuais abaixo de 9,150.96€ (14 x 653.64€) e dos que têm acima. Para o primeiro, tendo em conta que, ganhando abaixo do limite, todo o rendimento é isento de IRS, basta saber o rendimento total desta franja dos agregados:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;rendimento total dos agregados com rendimentos &amp;lt; 9,150.96€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Para o segundo, visto que utilizam a isenção por completo, temos:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# agregados com rendimentos acima de 9,150.96€ x 9,150.96€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;No entanto, encontramos uma pequena dificuldade: os dados estão disponíveis apenas por escalões (0 aos 5,000€, 5,000 aos 10,000€, etc.) e o limite de 9,150.96€ encontra-se no meio deste último. Por exemplo, só sabemos que o rendimento total dos que ganharam entre 0 e 5,000€ no ano foi de 1.635 milhões de euros, e de 11.382 para os que ganharam entre 5,000 e 10,000€. No primeiro, sabemos que todo esse rendimento está isento. Mas, no segundo, apenas a porção dos 5,000.00 aos 9,150.96€ está isenta, o restante sendo taxado a 15%. Poderíamos dizer que 9,150.96€ está próximo o suficiente de 10,000.00€ e incluir o rendimento todo desse escalão. No entanto, estaríamos a isentar rendimento a mais (ainda que pouco).
+Este é um problema que também estará presente quando passarmos para o modelo de duas taxas. Assim, modelaremos a distribuição de rendimentos do escalão dos dados onde caírem os limites dos escalões das taxas. Por exemplo, para o limite de 9,150.96€, modelaremos a distribuição do escalão 5,000 a 10,000€. Este procedimento é explicado no fim do artigo. Com o modelo, poderemos calcular os valores para rendimentos até 9,150.96€.&lt;/p&gt;
+
+&lt;p&gt;Assim, obtemos:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;    9,794 M€  (rendimento total dos agregados com rendimentos &amp;lt; 9,006.90€)
+1,787,532     (# agregados com rendimentos &amp;lt; 9,006.90€)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Sabendo que o número total de agregados é 5,408,288, podemos finalmente calcular o valor total da isenção:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;9,794 M€ + (5,408,288 - 1,787,532) x 9,150.96 € = 42,928 M€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Tendo em conta apenas esta isenção, a receita do IRS seria:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;0.15 x (100,562 - 42,928) = 8,645 M€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;que, face ao sistema de 2019, representaria uma perda de receita de:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;12,939 - 8,645 = 4,294 M€ = 2.0% do PIB
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Este é o valor mínimo da perda. Por um lado, porque considerámos apenas um trabalhador por agregado, e portanto apenas uma isenção por agregado. Por outro lado, porque falta ainda incluir a isenção por filho.&lt;/p&gt;
+
+&lt;h2 id=&quot;majorante&quot;&gt;Majorante&lt;/h2&gt;
+
+&lt;p&gt;No entanto, antes de passar à isenção do filho, podemos agora fazer o oposto. Em vez de minorar, majorar.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;Perda = IRS_antigo - IRS
+      = IRS_antigo - 0.15 x (Rendimento Total - Isenção Total)
+      = IRS_antigo + 0.15 x (Isenção Total - Rendimento Total)
+      ≤ IRS_antigo + 0.15 x (Isenção_2pa - Rendimento Total)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Aqui, Isenção_2pa é o valor total das isenções, assumindo duas por agregado, quando na realidade, muito agregados (ex.: não casados) terão direito a apenas uma&lt;a id=&quot;cite-footnote-c&quot; href=&quot;#footnote-c&quot;&gt;&lt;sup&gt;(c)&lt;/sup&gt;&lt;/a&gt;. Neste caso, o que calcularmos de perda será maior (não contando com a isenção por filho) que a perda real.&lt;/p&gt;
+
+&lt;p&gt;Procedemos de igual maneira que antes, com a diferença de que o limite passa de 9,150.96€ para 18,301.92€, o dobro.&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;   33,879 M€  (rendimento total dos agregados com rendimentos &amp;lt; 18,301.92€)
+3,671,637     (# agregados com rendimentos &amp;lt; 18,301.92€)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Refazendo as contas com os novos valores, o valor total da isenção passa a:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;33,879 M€ + (5,408,288 - 3,671,637) x 18,301.92 € = 65,663 M€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;dando uma receita do IRS de:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;0.15 x (100,562 - 65,663) = 5,235 M€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;o que resultaria numa perda de receita de:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;12,939 - 7,704 = 7,704 M€ = 3.6% do PIB
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Concluímos então que a perda de receita não ultrapassará os 3.6% do PIB. Claro, sem contar com a perda relativa à isenção por filho.&lt;/p&gt;
+
+&lt;h2 id=&quot;isenção-por-filho&quot;&gt;Isenção por filho&lt;/h2&gt;
+
+&lt;p&gt;Nos dois cálculos anteriores, não incluímos a isenção de 400€ por filho por mês (200€ por progenitor ou 400€ em famílias monoparentais), isto é, 5,600€ por filho por ano.&lt;/p&gt;
+
+&lt;p&gt;A razão para termos deixado esta isenção para trás até agora é que o cálculo do valor total dela apresenta uma dificuldade face aos dados. Falta-nos a distribuição do número de filhos pelo nível de rendimentos. Por exemplo, uma mãe com rendimentos de 750€ e com um filho (família monoparental) não utiliza a isenção do filho por completo, já que 750 &amp;lt; 643.35 + 400. O mesmo se pode passar até com um casal, ambos os membros ganhando 750€, já que 750 &amp;lt; 643.35 + 200. Com múltiplos filhos, este efeito é mais pronunciado.&lt;/p&gt;
+
+&lt;p&gt;Por estas razões, torna-se difícil o cálculo do valor da isenção e consequente perda de receita do IRS. Sabendo que o minorante teórico é de 0, num caso limite em que todos os filhos pertencem a pais cujos rendimentos já estão cobertos pela isenção pessoal, calcularemos apenas o nível máximo de isenção total, ou seja, o majorante&lt;a id=&quot;cite-footnote-d&quot; href=&quot;#footnote-d&quot;&gt;&lt;sup&gt;(d)&lt;/sup&gt;&lt;/a&gt;:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# filhos x 5,600 € = 1,951,310 x 5,600 € = 10,927 M€
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;o que, a uma taxa de 15%, representa uma perda de receita de&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;0.15 x 10,927 = 1,639 M€ = 0.8% do PIB
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Se contássemos todo o bolo, 10,927 M€, estaríamos a sobreestimar a dedução e portanto a perda de receita. No entanto, tendo em conta que a maioria dos agregados com filhos têm dois pais a trabalhar e que o salário mínimo em 2019 era de 8,400€ por ano, podemos afirmar com alguma confiança que o valor real da perda de receita será uma fração significativa de 1,639 milhões de euros.&lt;/p&gt;
+
+&lt;h1 id=&quot;sistema-de-duas-taxas&quot;&gt;Sistema de duas taxas&lt;/h1&gt;
+
+&lt;h2 id=&quot;minorante-e-majorante&quot;&gt;Minorante e majorante&lt;/h2&gt;
+
+&lt;p&gt;O cálculo do minorante e do majorante para o sistema de duas taxas é semelhante ao da taxa única, apenas mais moroso, uma vez que passamos de dois a três escalões:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;0 a 9,150.96€         0%
+9,150.96 a 30,000€   15%
+Acima de 30,000€     28%
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Para os agregados do primeiro escalão, isentamos toda a receita. Para o segundo escalão, isentamos os 9,150.96€ por completo e tributamos 15% do remanescente para os agregados que caiam no segundo escalão. Por fim, no terceiro escalão, isentamos os 9,150.96€ por completo e tributamos 15% de 20,849.04€ (=30,000-9,150.96) do segundo escalão e 28% do remanescente.&lt;/p&gt;
+
+&lt;p&gt;Obtemos então para o minorante:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;11,318 M€                (receita do IRS)
+ 1,621 M€ = 0.8% do PIB  (perda de receita)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Para o majorante, há que ter atenção que não é apenas a isenção que é duplicada, mas também os limites dos escalões (ex.: 30,000€ -&amp;gt; 60,000€), obtendo-se:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt; 9,434 M€                (receita do IRS)
+ 3,505 M€ = 1.6% do PIB  (perda de receita)
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h2 id=&quot;isenção-por-filho-1&quot;&gt;Isenção por filho&lt;/h2&gt;
+
+&lt;p&gt;Repetimos o cálculo, tendo em conta que a taxa marginal máxima aumentou de 15% para 28%:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;10,927 M€ x 0.28 = 3,060 M€ = 1.4% do PIB
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Isto corresponde obviamente ao caso limite em que todos os filhos pertencem a pais com rendimentos superiores a 32,800€ cada.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h1&gt;
+
+&lt;h3 id=&quot;duas-taxas-temporário&quot;&gt;Duas taxas (temporário)&lt;/h3&gt;
+
+&lt;p&gt;No sistema temporário de duas taxas, o impacto imediato orçamental ficaria &lt;strong&gt;entre os 0.8 e o 1.6% do PIB&lt;/strong&gt;. A esta perda, &lt;strong&gt;acresce um valor inferior a 1.4% do PIB&lt;/strong&gt;, relativa à isenção por filho. Pegando no ponto médio dos dois intervalos, podemos calcular um &lt;strong&gt;valor indicativo de 1.9% do PIB (4.1 mil milhões de euros)&lt;/strong&gt;.
+Este valor é maior do que o dobro daquele indicado no programa de 2022, 0.9% do PIB (2 mil milhões de euros), que por si só, já representa uma significativa redução de receita. Relembre-se que a média dos défices dos quatro anos anteriores à pandemia é de 1.3% do PIB.&lt;/p&gt;
+
+&lt;h3 id=&quot;taxa-única&quot;&gt;Taxa única&lt;/h3&gt;
+
+&lt;p&gt;No sistema de taxa única, o impacto imediato orçamental ficaria &lt;strong&gt;entre os 2.0 e os 3.6% do PIB&lt;/strong&gt;&lt;a id=&quot;cite-footnote-e&quot; href=&quot;#footnote-e&quot;&gt;&lt;sup&gt;(e)&lt;/sup&gt;&lt;/a&gt;. A esta perda, &lt;strong&gt;acresce um valor inferior a 0.8% do PIB&lt;/strong&gt;, relativa à isenção por filho. Pegando no ponto médio dos dois intervalos, podemos calcular um &lt;strong&gt;valor indicativo de 3.2% do PIB (6.9 mil milhões de euros)&lt;/strong&gt;.
+Infelizmente, o programa de 2022 não oferece uma estimativa do impacto orçamental deste sistema, já que, face a 2019, introduziram na proposta o sistema temporário de duas taxas. Mas, é interessante ver que o programa de 2019 dá como estimativa menos de 1% do PIB. Ora, como dito no início, se o sistema de taxa única é menos punitivo fiscalmente que o de duas taxas, como pode ele custar menos? Fica a questão.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, ressalvamos uma vez mais que os efeitos de segunda ordem relativos ao aumento do rendimento disponível podem mitigar parcialmente estes valores. Ainda assim, é provável que tal não seja suficiente, pelo que ambos os sistemas (taxa única ou duas taxas) arriscam abrir buracos orçamentais bastante significativos.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;modelo-de-distribuição-dentro-de-um-escalão&quot;&gt;Modelo de distribuição dentro de um escalão&lt;/h2&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;x = rendimento
+
+f(x) * (x2 - x1) = # agregados com rendimentos entre x1 e x2 (com x2-x1 pequeno)
+∫_x1^x2 f(x) dx  = # total de agregados com rendimento entre x1 e x2
+
+f(x) * (x2 - x1) * x1 = rendimento de todos os agregados com rendimentos entre x1 e x2 (com x2-x1 pequeno)
+∫_x1^x2 f(x) x dx = rendimento de todos os agregados com rendimentos entre x1 e x2
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Assumindo uma distribuição linear, f(x) = ax + b, temos:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;∫_x1^x2 f(x) dx   = a (x2^2 - x1^2)/2 + b (x2 - x1)       = N
+∫_x1^x2 f(x) x dx = a (x2^3 - x1^3)/3 + b (x2^2 - x1^2)/2 = R
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;onde N e R são o número total de agregados e o rendimento total dos agregados com rendimento entre x1 e x2, respetivamente. Temos um sistema linear de duas equações e duas incógnitas (a e b), que se resolve facilmente.&lt;/p&gt;
+
+&lt;p&gt;Utilizando x1 e x2 como os valores dos limites inferiores e superiores dos escalões dos dados, podemos posteriormente calcular o número de agregados e o rendimento de um ponto intermédio x1 &amp;lt; x &amp;lt; x2.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a id=&quot;footnote-a&quot; href=&quot;#cite-footnote-a&quot;&gt;&lt;sup&gt;(a)&lt;/sup&gt;&lt;/a&gt; De notar que a totalidade da receita de IRS 13,171.2 milhões de euros, já que existem certos rendimentos taxados a uma taxa liberatória fixa e que não são contabilizados nos dados da AT. Em qualquer dos casos, a diferença é relativamente pequena.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;footnote-b&quot; href=&quot;#cite-footnote-b&quot;&gt;&lt;sup&gt;(b)&lt;/sup&gt;&lt;/a&gt; Segundo o texto, a isenção é apenas para rendimentos do trabalho. A priori, outros rendimentos, como rendas não seriam isentos. Mas, tendo em conta que a larga maioria dos que têm esses outros rendimentos, também têm rendimentos do trabalho, a isenção também se aplica. Também não parece muito o estilo da IL distinguir origens de rendimentos.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;footnote-c&quot; href=&quot;#cite-footnote-c&quot;&gt;&lt;sup&gt;(c)&lt;/sup&gt;&lt;/a&gt; Existem certos agregados com 3 pessoas com direito a isenção. Por exemplo, um casal com filho até 25 anos que aufira menos de 14 vezes o SMN num ano. Mas, a frequência destes casos deve ser desprezável.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;footnote-d&quot; href=&quot;#cite-footnote-d&quot;&gt;&lt;sup&gt;(d)&lt;/sup&gt;&lt;/a&gt; Soma dos grupos até à idade de 19 (ano de 2019). (Uma porção significativa do grupo 20-24 também se encontra em situação de dependente (ex.: estudantes universitários), pelo que seria mais correto contá-los. Mas, uma vez que não temos acesso fácil ao valor exato, não o fazemos.) &lt;a href=&quot;https://www.pordata.pt/Portugal/Popula%C3%A7%C3%A3o+residente++m%C3%A9dia+anual+total+e+por+grupo+et%C3%A1rio-10&quot;&gt;PORDATA&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;a id=&quot;footnote-e&quot; href=&quot;#cite-footnote-e&quot;&gt;&lt;sup&gt;(e)&lt;/sup&gt;&lt;/a&gt; Segundo a &lt;a href=&quot;https://rr.sapo.pt/noticia/economia/2020/09/29/taxa-unica-de-irs-quanto-custa-a-proposta-da-iniciativa-liberal/209017/&quot;&gt;imprensa&lt;/a&gt;, a Deloitte estima um custo até 3.5 mil milhões, isto é 1.7% do PIB. Este majorante é menor do que o minorante que estimado neste artigo, que implica que as estimativas deste artigo não são consistentes com as da Deloitte. Semelhantemente aos valores dados pela IL, como os cálculos da Deloitte não foram publicados, não é possível comparar e ver de onde vem a diferença.&lt;/p&gt;</content><author><name>dx</name></author><summary type="html">No programa para as legislativas de 2022, a IL propõe alterar o regime do IRS para uma taxa única de 15%, com isenção para rendimentos de trabalho até ao montante do mínimo de existência de vida, igual a 1.5 x 14 x IAS (indexante de apoios sociais), que corresponde a 664.80€ por mês para 2022. Para reduzir o choque inicial, propõe começar com um sistema temporário de duas taxas, 15% até aos 30,000€ e 28% acima, com a mesma isenção do sistema de taxa única. Em ambos, acrescenta-se também uma isenção mensal por filho por progenitor de 200€ ou de 400€ em famílias monoparentais, isto é, cada filho representa 400€ de isenção mensal. Perguntamos qual o impacto orçamental desta proposta?</summary></entry><entry><title type="html">Ser pobre para salvar o ambiente? Se calhar, não.</title><link href="http://localhost:4000/ser-pobre-para-salvar-o-ambiente/" rel="alternate" type="text/html" title="Ser pobre para salvar o ambiente? Se calhar, não." /><published>2019-06-08T00:00:00+01:00</published><updated>2019-06-08T00:00:00+01:00</updated><id>http://localhost:4000/ser-pobre-para-salvar-o-ambiente</id><content type="html" xml:base="http://localhost:4000/ser-pobre-para-salvar-o-ambiente/">&lt;p&gt;No seu artigo “&lt;a href=&quot;http://visao.sapo.pt/opiniao/2019-05-30-Quer-fazer-bem-ao-ambiente--Seja-pobre&quot;&gt;Quer fazer bem ao ambiente? Seja pobre.&lt;/a&gt;”, Luís Ribeiro conclui:&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;O que está a arruinar o planeta é termos dinheiro para gastar. Não se resolve o problema consumindo de forma mais consciente. Resolve-se consumindo muito, muito, muito menos. Resolve-se mudando drasticamente o modelo económico e social. Resolve-se abdicando do conforto e do bem-estar. Resolve-se dando vários passos atrás na qualidade de vida. Resolve-se tendo o nível de pobreza do Burundi.&lt;/p&gt;
