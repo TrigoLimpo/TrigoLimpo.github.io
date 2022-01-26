@@ -130,7 +130,7 @@ dando uma receita do IRS de:
 
 o que resultaria numa perda de receita de:
 
-    12,939 - 7,704 = 7,704 M€ = 3.6% do PIB
+    12,939 - 5,235 = 7,704 M€ = 3.6% do PIB
 
 Concluímos então que a perda de receita não ultrapassará os 3.6% do PIB. Claro, sem contar com a perda relativa à isenção por filho.
 
