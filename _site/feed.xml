@@ -1,4 +1,54 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt" /><updated>2022-01-26T00:56:26+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Trigo Limpo</title><subtitle></subtitle><author><name>dx</name></author><entry><title type="html">Qual o impacto orçamental da proposta de taxa única da IL?</title><link href="http://localhost:4000/impacto-da-taxa-unica-il/" rel="alternate" type="text/html" title="Qual o impacto orçamental da proposta de taxa única da IL?" /><published>2022-01-25T00:00:00+00:00</published><updated>2022-01-25T00:00:00+00:00</updated><id>http://localhost:4000/impacto-da-taxa-unica-il</id><content type="html" xml:base="http://localhost:4000/impacto-da-taxa-unica-il/">&lt;p&gt;No &lt;a href=&quot;https://iniciativaliberal.pt/wp-content/uploads/2022/01/Iniciativa-Liberal-Programa-Eleitoral-2022.pdf&quot;&gt;programa para as legislativas de 2022&lt;/a&gt;, a IL propõe alterar o regime do IRS para uma taxa única de 15%, com isenção para rendimentos de trabalho até ao montante do mínimo de existência de vida, igual a 1.5 x 14 x IAS (indexante de apoios sociais), que corresponde a 664.80€ por mês para 2022. Para reduzir o choque inicial, propõe começar com um sistema temporário de duas taxas, 15% até aos 30,000€ e 28% acima, com a mesma isenção do sistema de taxa única. Em ambos, acrescenta-se também uma isenção mensal por filho por progenitor de 200€ ou de 400€ em famílias monoparentais, isto é, cada filho representa 400€ de isenção mensal.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="3.9.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="pt" /><updated>2022-02-02T14:50:50+00:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Trigo Limpo</title><subtitle></subtitle><author><name>dx</name></author><entry><title type="html">Pela enésima vez, os funcionários públicos criam riqueza! Pela enésima vez, os funcionários públicos não vivem da riqueza produzida pelo privado!</title><link href="http://localhost:4000/producao-funcionarios-publicos/" rel="alternate" type="text/html" title="Pela enésima vez, os funcionários públicos criam riqueza! Pela enésima vez, os funcionários públicos não vivem da riqueza produzida pelo privado!" /><published>2022-02-02T00:00:00+00:00</published><updated>2022-02-02T00:00:00+00:00</updated><id>http://localhost:4000/producao-funcionarios-publicos</id><content type="html" xml:base="http://localhost:4000/producao-funcionarios-publicos/">&lt;p&gt;Estes são apenas dois dos muitos mitos que envolvem os funcionários públicos. Vamos desmontá-los com dois exemplos.&lt;/p&gt;
+
+&lt;!--more--&gt;
+
+&lt;p&gt;Para começar, é óbvio que os funcionários públicos (ex.: médicos do SNS) contribuem para o PIB, já que no método de cálculo do PIB na ótica do rendimento aparecem os salários. Citando o INE:&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;Ótica do rendimento: o PIB corresponde à soma das remunerações dos empregados, dos impostos sobre a produção e importação líquidos de subsídios e do excedente bruto de exploração.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Como o PIB mede a produção de riqueza, então é óbvio que os funcionários públicos produzem riqueza&lt;sup&gt;&lt;a id=&quot;cite-footnote-a&quot; href=&quot;#footnote-a&quot;&gt;(a)&lt;/a&gt;&lt;/sup&gt;.&lt;/p&gt;
+
+&lt;h1 id=&quot;exemplo-1-a-riqueza-produzida-pelos-serviços-públicos&quot;&gt;Exemplo 1: a riqueza produzida pelos serviços públicos&lt;/h1&gt;
+
+&lt;p&gt;Peguemos num país com saúde pública e privada (ex.: Portugal). Consideremos um paciente que é atendido no privado e que quando chega ao pagamento, por algum motivo, a pessoa do lado decide pagar. Este ato médico conta para o PIB, apesar de não ter sido o próprio a pagar? Porque não? Não faz qualquer diferença quem paga. Consideremos agora um paciente no público. Esse paciente não paga no ato, pois é o estado quem o faz. Mas o estado fá-lo através da receita fiscal, que nada mais é que o dinheiro que outras pessoas ganharam e “deram” (são forçadas por lei) ao estado. Isso significa que temos exatamente a mesma situação do exemplo do privado em que alguém que não o paciente paga. Se o primeiro caso contribui para o PIB e portanto para a produção de riqueza, o segundo terá de contribuir também. O médico público não vive à custa dos contribuintes, não mais do que o médico privado vive à custa dos clientes.&lt;/p&gt;
+
+&lt;h1 id=&quot;exemplo-2-os-impostos-pagos-pelos-funcionários-públicos&quot;&gt;Exemplo 2: os impostos pagos pelos funcionários públicos&lt;/h1&gt;
+
+&lt;p&gt;Consideremos uma economia simples, com apenas duas pessoas. Uma trabalha no privado e outra no público. A remuneração do funcionário público é integralmente oriunda da receita fiscal do estado, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E&lt;/code&gt;. Para simplificar, existe apenas IRS e é uma flat tax (Olá IL!) de 50% (Adeus IL!). Então, se o privado ganha &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R_Priv&lt;/code&gt;, quanto ganha o funcionário público, &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;R_Pub&lt;/code&gt;? É simples:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;E = 0.5 x R_Priv + 0.5 x R_Pub
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Como &lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;E = R_Pub&lt;/code&gt;, temos:&lt;/p&gt;
+
+&lt;div class=&quot;language-plaintext highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;R_Pub = 0.5/(1-0.5) x R_Priv = R_Priv
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Se o trabalhador privado tem um rendimento bruto de 1,000€, o trabalhador público tem um rendimento bruto de 1,000€ também, e temos um PIB de 2,000€. O facto de que metade do rendimento do funcionário público vem dos seus próprios impostos não é em nada diferente do facto de que metade do rendimento do empregado privado vem das suas compras a ele próprio. Assim, os impostos que o trabalhador público paga correpondem ao pagamento dos serviços públicos que usufrui. Da mesma maneira, os impostos que o trabalhador privado paga não são subsídios ou riqueza extraída ao trabalhador privado para dar ao trabalhador público, mas o pagamento dos serviços que o trabalhador público lhe fornece. A única diferença é que a utilização de serviços públicos tende a ser independente do pagamento que se faz.&lt;/p&gt;
+
+&lt;h1 id=&quot;conclusão&quot;&gt;Conclusão&lt;/h1&gt;
+
+&lt;p&gt;Com estes dois exemplos simples, podemos ver que:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Os empregados públicos produzem riqueza da mesma maneira que os empregados privados.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Essa produção também contribui para o PIB, visto ser uma das componentes no seu cálculo.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Os empregados públicos pagam impostos da mesma maneira que os empregados privados.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Em suma, e algo que devia ser óbvio, os empregados públicos não vivem à custa dos empregados privados.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;a id=&quot;footnote-a&quot; href=&quot;#cite-footnote-a&quot;&gt;&lt;sup&gt;(a)&lt;/sup&gt;&lt;/a&gt; Note-se que riqueza pode ser produzida e não contabilizada no PIB. Por exemplo, cozinhar em casa vs ir ao restaurante. Ambos produzem, mas apenas a segunda é contabilizada no PIB. Outra curiosidade em relação ao PIB é que também engloba atividades ilegais, como a prostituição, tráfico de drogas, etc.&lt;/p&gt;</content><author><name>dx</name></author><summary type="html">Estes são apenas dois dos muitos mitos que envolvem os funcionários públicos. Vamos desmontá-los com dois exemplos.</summary></entry><entry><title type="html">Qual o impacto orçamental da proposta de taxa única da IL?</title><link href="http://localhost:4000/impacto-da-taxa-unica-il/" rel="alternate" type="text/html" title="Qual o impacto orçamental da proposta de taxa única da IL?" /><published>2022-01-25T00:00:00+00:00</published><updated>2022-01-25T00:00:00+00:00</updated><id>http://localhost:4000/impacto-da-taxa-unica-il</id><content type="html" xml:base="http://localhost:4000/impacto-da-taxa-unica-il/">&lt;p&gt;No &lt;a href=&quot;https://iniciativaliberal.pt/wp-content/uploads/2022/01/Iniciativa-Liberal-Programa-Eleitoral-2022.pdf&quot;&gt;programa para as legislativas de 2022&lt;/a&gt;, a IL propõe alterar o regime do IRS para uma taxa única de 15%, com isenção para rendimentos de trabalho até ao montante do mínimo de existência de vida, igual a 1.5 x 14 x IAS (indexante de apoios sociais), que corresponde a 664.80€ por mês para 2022. Para reduzir o choque inicial, propõe começar com um sistema temporário de duas taxas, 15% até aos 30,000€ e 28% acima, com a mesma isenção do sistema de taxa única. Em ambos, acrescenta-se também uma isenção mensal por filho por progenitor de 200€ ou de 400€ em famílias monoparentais, isto é, cada filho representa 400€ de isenção mensal.&lt;/p&gt;
 
 &lt;p&gt;Perguntamos qual o impacto orçamental desta proposta?&lt;/p&gt;
 
